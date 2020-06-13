@@ -1,0 +1,2 @@
+# gncYtnk
+proje

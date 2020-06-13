@@ -1,0 +1,6 @@
+framework module Pods_gncYtnk {
+  umbrella header "Pods-gncYtnk-umbrella.h"
+
+  export *
+  module * { export * }
+}
